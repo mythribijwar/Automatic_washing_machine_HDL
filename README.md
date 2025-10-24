@@ -54,7 +54,8 @@ It simulates the automatic washing process — from checking the door to spinnin
 
 ## 📷 State Diagram
 
-![State Diagram](state_diagram.png)
+![State Diagram](https://github.com/mythribijwar/Automatic_washing_machine_HDL/blob/dfddfd1913d9e6204802b6851d8456ba0567285c/state_diagram/IMG_20251024_145524.jpg)
+
 
 ---
 
