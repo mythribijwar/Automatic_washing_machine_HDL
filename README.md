@@ -27,8 +27,8 @@ It simulates the automatic washing process — from checking the door to spinnin
 
 | File | Description |
 |------|--------------|
-| `automatic_washing_machine.v` | Main Verilog FSM design |
-| `new_test.v` | Testbench for simulation in Vivado |
+| `washing_machine_hdl.v` | Main Verilog FSM design |
+| `testbench.v` | Testbench for simulation in Vivado |
 | `washing_machine_nexys4ddr.xdc` | Constraint file for Artix-7 FPGA (switches & LEDs mapping) |
 | `state_diagram.png` | FSM state diagram used for project visualization |
 
